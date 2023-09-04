@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @pateldhairya0328
-- 👀 I’m interested in anything math adjacent, and any random fun facts you may have. Also I love watching any good shows and movies.
-- 🌱 I’m currently studying Electrical and Computer Engineering at University of Toronto.
-- 📫 How to reach me: email me at pateldhairya0328@gmail.com.
+- 👋 Hi, I’m Dhairya Patel.
+- 👀 I’m interested in anything math adjacent, random fun facts you may have, going to the movies, and trying new ice cream and pizza places.
+- 🌱 I’m currently in the Master of Applied Science in Electrical and Computer Engineering program at University of Toronto and working at Lorica Cybersecurity. My areas of focus are stochastic control theory and homomorphic encryption.
+- 📫 How to reach me: you can email me at pateldhairya0328@gmail.com.
 
 <!---
 pateldhairya0328/pateldhairya0328 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
